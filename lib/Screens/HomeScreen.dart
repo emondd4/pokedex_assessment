@@ -80,7 +80,7 @@ class _HomePageState extends State<HomePage> {
       _valueImage = jsonResponse["sprites"]["front_default"];
     });
 
-    // print("ItemDetails $jsonResponse");
+     //print("ItemDetails $jsonResponse");
   }
 
   @override
